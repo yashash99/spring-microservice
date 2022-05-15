@@ -7,4 +7,5 @@ spring:
         git:
           uri: ${CONFIG_GIT_URI:https://github.com/yashash99/spring-microservice}
           searchPaths: configs
+          default-label: master
 
